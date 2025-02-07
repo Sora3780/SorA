@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\pybo",
+    "\\pybo\\migrations",
+    "\\static",
+    "\\templates",
+    "\\templates\\pybo"
+  ],
+  "SelectedNode": "\\templates\\pybo\\question_list.html",
+  "PreviewInSolutionExplorer": false
+}
