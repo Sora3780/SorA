@@ -24,7 +24,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="book.py" />
+    <Compile Include="divideconquer.py" />
     <Compile Include="fibo.py" />
+    <Compile Include="priorityqueue.py" />
+    <Compile Include="knapsack.py" />
     <Compile Include="matrix.py" />
     <Compile Include="PythonApplication1.py" />
   </ItemGroup>
